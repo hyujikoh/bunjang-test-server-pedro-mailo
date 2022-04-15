@@ -1,3 +1,5 @@
+# 본 템플릿의 저작권은 (주) 소프트스퀘어드에 있습니다. 무단 배포를 금합니다.
+
 # Bunjang Clone coding Project 
 > ## [🙈 기획서](https://docs.google.com/document/d/1mJEql5gy8jLTYZXEtAzuZwmRtznI321b/edit)
 > ## [📫 API Sheet](https://docs.google.com/spreadsheets/d/1saKFspgb7g0NZVLX445RVXS27s1UKaY5/edit#gid=990061567)    
