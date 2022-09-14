@@ -1,7 +1,7 @@
 # 본 템플릿의 저작권은 (주) 소프트스퀘어드에 있습니다. 무단 배포를 금합니다.
 
 # Bunjang Clone coding Project 
-> ## [🙈 기획서](https://docs.google.com/document/d/1mJEql5gy8jLTYZXEtAzuZwmRtznI321b/edit)
+> ## [🙈 기획서](https://github.com/hyujikoh/bunjang-test-server-pedro-mailo/files/9564149/docx.1.pdf)
 > ## [📫 API Sheet](https://docs.google.com/spreadsheets/d/1saKFspgb7g0NZVLX445RVXS27s1UKaY5/edit#gid=990061567)    
 > ## [🧩 ERD](https://aquerytool.com/aquerymain/index/?rurl=f5891c32-395a-4960-8e52-5380280e35ef&)
 >> password : 42g555
