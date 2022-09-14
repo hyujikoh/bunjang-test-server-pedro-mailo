@@ -390,7 +390,7 @@ bunjang-test-server-pedro-mailo
 
 
 
-# 마일로 파트
+# 타 팀원 파트
 
 ## 2022-03-19 진행상황
 + EC2 서버 구축
