@@ -254,12 +254,9 @@ org.springframework.dao.IncorrectResultSizeDataAccessException: Incorrect result
  ```
 - 해결 : Req 값으로 파라미터를 메세지만 받아서 생기는 결과.. 임의로 매개변수 하나 추가 해서 테스트 결과 나오는걸로 확인
 
-<<<<<<< HEAD
 <br />
-=======
 
-<br />
-=======
+
 
 ### 8. GET 오류 (22-03-30)
 - 문제 : 채팅방 입장및 조회 하는 API 테스트 중 에러 나오는 것 확인
@@ -268,7 +265,7 @@ org.springframework.dao.IncorrectResultSizeDataAccessException: Incorrect result
 
 ```
 - 해결 : 매핑하는 URL 잘못 기재하여 생긴 오류 , URL 수정후 정상적으로 나오는것 확인
->>>>>>> pedro
+
 
 
 ## 🚀 코드분석(주요 폴더및 파일로 분석)
